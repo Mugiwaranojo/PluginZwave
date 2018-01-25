@@ -1,0 +1,4 @@
+{ 
+	"deviceOn": 	"allume (le|la) (?P<deviceName>.+\\s?.*)",
+	"deviceOff":	"étein(s|t) (le|la) (?P<deviceName>.+\\s?.*)"
+}

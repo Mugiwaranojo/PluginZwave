@@ -1,0 +1,7 @@
+{
+	"link": "Zwave",
+	"linkicon": "power-off",
+	"type": "List",
+	"itemType": "SwitchContainer",
+	"list": [] 
+}

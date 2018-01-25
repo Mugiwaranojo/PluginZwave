@@ -1,0 +1,13 @@
+{ 
+	"driverPath" : "/dev/ttyUSB0",
+	"devices": [
+		{	"name": "lumière",
+			"node": 2 },
+		{	"name": "petite lumière",
+			"node": 5 },
+		{	"name": "chauffage",
+			"node": 4 },
+		{	"name": "chauffage salle de bain",
+			"node": 3 }
+		]
+}
